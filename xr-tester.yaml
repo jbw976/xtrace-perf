@@ -1,0 +1,7 @@
+apiVersion: trace-perf.crossplane.io/v1alpha1
+kind: XTracePerf
+metadata:
+ name: xtraceperf-tester
+spec:
+  resourceCount: 250
+  
